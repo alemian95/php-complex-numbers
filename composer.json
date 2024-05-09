@@ -1,0 +1,19 @@
+{
+    "name": "alemian95/php-complex-numbers",
+    "description": "Package for manipulating and performing calculations with complex numbers",
+    "autoload": {
+        "psr-4": {
+            "Alemian95\\PhpComplexNumbers\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alessandro Mian",
+            "email": "alessandromian95@gmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require-dev": {
+        "phpunit/phpunit": "^10.5"
+    }
+}
